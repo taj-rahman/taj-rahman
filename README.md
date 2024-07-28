@@ -2,17 +2,16 @@
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/github/followers/taj-rahman?label=follow&style=social)](https://github.com/taj-rahman)
 
 ---
 
 ## About Me
 
-- 🎓 Currently learning [CS50x](https://cs50.harvard.edu/x/) by Harvard University.
+- 🎓 Currently learning [CS50x](https://cs50.harvard.edu/x/) by Harvard.
 - 💻 I code in **C**, **Python**, and **Bash**.
 - 🌱 Always keen to explore new technologies and enhance my skills.
 - 🤔 Open to collaborating on projects and contributing to the open-source community.
-- ✍️ Interested in creating a browser targeting developers and software engineers with features like a default code editor, customization options, and open-source development.
 
 ---
 
@@ -38,11 +37,11 @@
 ## Get in Touch
 
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- GitHub: [Your GitHub](https://github.com/taj-rahman)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taj-rahman&show_icons=true&hide=prs&theme=radical)
 
 <!-- Optionally, you can add more GitHub stats or other visual elements -->
 
