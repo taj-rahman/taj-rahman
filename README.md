@@ -37,11 +37,7 @@
 
 ### [LifeTrack](https://github.com/taj-rahman/LifeTrack)
 - Description: LifeTrack is a simple yet powerful and feature-rich web application designed for efficient note-taking and task management.
-- Tech stack: CPython, Flask, HTML, CSS, JavaScript
-
-### [Another Project](https://github.com/yourusername/another-project-repo)
-- Description: Brief description of what this project does.
-- Tech stack: Python, Bash
+- Tech stack: Python, Flask, HTML, CSS, JavaScript
 
 ---
 
